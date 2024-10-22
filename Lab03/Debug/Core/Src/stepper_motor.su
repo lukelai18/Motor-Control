@@ -1,0 +1,4 @@
+../Core/Src/stepper_motor.c:47:6:first_position	24	static
+../Core/Src/stepper_motor.c:79:6:new_direction	24	static
+../Core/Src/stepper_motor.c:140:6:new_position	8	static
+../Core/Src/stepper_motor.c:233:6:begin_moving	24	static
